@@ -1,40 +1,26 @@
 # DUPLICATES_LINE_REMOVER
-remove duplicates line in a text file by python script !
+**ABOUT TOOL :**<br>
+**DUPLICATES_LINE_REMOVER** is a tool created for termux and Kali Linux
 
-👇installing🤞command 👇
+With this tool you can remove duplicates line in a text file **.**
 
-_____1_____ ==> _____apt update_____
+# INSTALLATION COMMAND
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install python -y`
+* `pkg install git -y`
+* `git clone https://github.com/YT-GAMER-X/DUPLICATES_LINE_REMOVER`
+* `ls`
+* `cd DUPLICATES_LINE_REMOVER`
+* `ls`
+* `chmod 777 DUPLICATES_LINE_REMOVER.py`
+* `ls`
+* `python DUPLICATES_LINE_REMOVER.py`
 
-_____2_____ ==> _____apt upgrade_____
+# HOW TO USE 
+*It's simply to use
+Enter INPUT FILE PATH THEN 
+Enter OUTPUT FILE PATH*
 
-_____3_____ ==> _____pkg install git_____
-
-_____4_____ ==> _____pkg install python_____
-
-_____5_____ ==> _____pkg install python2_____
-
-_____6_____ ==> _____git clone https://github.com/YT-GAMER-X/DUPLICATES_LINE_REMOVER_____
-
-_____7_____ ==> _____ls_____
-
-_____8_____ ==> _____cd DUPLICATES_LINE_REMOVER_____
-
-_____9_____ ==> _____ls_____
-
-_____10_____ ==> _____python2 DUPLICATES_LINE_REMOVER.py_____
-
-_____------DONE------_____
-
-_____It's simply to use_____
-
-____Enter INPUT FILE PATH____
-
-____Enter OUTPUT FILE PATH____
-
-_____SUBSCRIBE ME ON YOU_TUBE_____
-
-_____https://www.youtube.com/channel/UCtKNEQ-tZiyJn73saSnNmlw_____
-
-_____KEEP SUPPORTING bye... bye..._____
-
-_____💥💥💥💥💥💥💥💥💥💥💥💥💥_____
+# SUBSCRIBE
+<a href="https://www.youtube.com/@YT-GAMER-X"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> 
